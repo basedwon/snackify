@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/frenware/utils/snackify.git"
+    "url": "git+https://github.com/basedwon/snackify.git"
   },
   "bugs": {
-    "url": "https://gitlab.com/frenware/utils/snackify/issues"
+    "url": "https://github.com/basedwon/snackify/issues"
   },
-  "homepage": "https://gitlab.com/frenware/utils/snackify#readme",
+  "homepage": "https://github.com/basedwon/snackify#readme",
   "main": "lib/module.js",
   "files": [
     "lib"
