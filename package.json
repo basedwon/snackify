@@ -1,0 +1,53 @@
+{
+  "name": "snackify",
+  "version": "0.0.0",
+  "description": "A lightweight and versatile Nuxt module that leverages Vuetify to display snackbars (toasts) on your app or website.",
+  "author": "Basedwon <basedwon@protonmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/frenware/utils/snackify.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/frenware/utils/snackify/issues"
+  },
+  "homepage": "https://gitlab.com/frenware/utils/snackify#readme",
+  "main": "lib/module.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "docs": "jsdoc2md \"lib/**/*.js\" > docs/api.md",
+    "test": "echo It Works!"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.2",
+    "jsdoc-to-markdown": "^8.0.0"
+  },
+  "keywords": [
+    "nuxt",
+    "vuetify",
+    "snackbar",
+    "toast",
+    "notification",
+    "vue",
+    "module",
+    "plugin",
+    "vuex",
+    "ui",
+    "component",
+    "alert",
+    "message",
+    "user feedback",
+    "nuxtjs",
+    "vuetifyjs",
+    "real-time notifications",
+    "vue snackbar",
+    "vue toast",
+    "nuxt module",
+    "vuetify module",
+    "snackify",
+    "vue notifications",
+    "interactive toasts"
+  ]
+}
