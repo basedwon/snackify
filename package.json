@@ -1,6 +1,6 @@
 {
   "name": "snackify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A lightweight and versatile Nuxt module that leverages Vuetify to display snackbars (toasts) on your app or website.",
   "author": "Basedwon <basedwon@protonmail.com>",
   "license": "MIT",
