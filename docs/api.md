@@ -85,5 +85,5 @@ It integrates with Nuxt's store to manage and display notifications in a queue.
 | Param | Type | Description |
 | --- | --- | --- |
 | context | <code>Object</code> | The context provided by Nuxt.js for plugins. |
-| inject | <code>function</code> | The method provided by Nuxt.js to inject functions into the context. |
+| inject | <code>function</code> | The method provided by Nuxt.js to inject functions  into the context. |
 

@@ -32,10 +32,12 @@ export default {
   },
   watch: {
     show (curr, prev) {
-      if (curr && !prev) return
-      setTimeout(() => {
-        this.$store.dispatch('snackify/next')
-      }, 300)
+      this.$store.dispatch('snackify/dispatch', { curr, prev })
+      // this.$store.dispatch('snackify/dispatch')
+      // if (curr && !prev) return
+      // setTimeout(() => {
+      //   this.$store.dispatch('snackify/next')
+      // }, 300)
     },
   },
 }
